@@ -1,0 +1,32 @@
+_repo: Smoking-and-Drinking_43480
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43480-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Parton, James
+    birthdate: 1822
+    deathdate: 1891
+    gutenberg_agent_id: '2129'
+    url: http://www.gutenberg.org/2009/agents/2129
+    wikipedia: http://en.wikipedia.org/wiki/James_Parton
+description: Does it pay to smoke? -- Will the coming man drink wine? -- Inebriate
+  asylums, and a visit to one.
+gutenberg_issued: '2013-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43480'
+  lccn: 09034770
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Temperance'
+- !lcc 'RC'
+- !lcsh 'Alcoholism -- Hospitals'
+- !lcsh 'Smoking'
+tableOfContents: Does it pay to smoke? -- Will the coming man drink wine?
+title: Smoking and Drinking
+url: http://www.gutenberg.org/ebooks/43480
